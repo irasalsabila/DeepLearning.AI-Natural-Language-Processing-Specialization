@@ -22,49 +22,48 @@
  - Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering, and to build chatbots. Learn T5, BERT, transformer, reformer, and more with 🤗  Transformers!
 
 ### Courses:
-1. [Natural Language Processing with Classification and Vector Spaces]()  
-2. [Natural Language Processing with Probabilistic Models]()  
-3. [Natural Language Processing with Sequence Models]()  
-4. [Natural Language Processing with Attention Models]()  
+1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/01%20-%20NLP%20with%20Classification%20and%20Vector%20Spaces)  
+2. [Natural Language Processing with Probabilistic Models](https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/02%20-%20NLP%20with%20Probabilistic%20Models)  
+3. [Natural Language Processing with Sequence Models](https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/03%20-%20NLP%20with%20Sequence%20Models)  
+4. [Natural Language Processing with Attention Models](https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/04%20-%20NLP%20with%20Attention%20Models)  
 
 
 ### Certificates:
 0. Natural Language Processing Specialization
     <details>  <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/specialization/certificate/FU24WR2UPYYA)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/misc/00%20-%20Coursera%20FU24WR2UPYYA.jpg" />](https://www.coursera.org/account/accomplishments/specialization/certificate/FU24WR2UPYYA)
 
     </p></details>
 
 1. Natural Language Processing with Classification and Vector Spaces
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/6V4K8734Q5EX)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/misc/01%20-%20Coursera%206V4K8734Q5EX.jpg" />](https://www.coursera.org/account/accomplishments/certificate/6V4K8734Q5EX)
       
     </p></details>
 
 2. Natural Language Processing with Probabilistic Models
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/QKUFD9KKZH85)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/misc/02%20-%20Coursera%20QKUFD9KKZH85.jpg" />](https://www.coursera.org/account/accomplishments/certificate/QKUFD9KKZH85)
       
     </p></details>
 
 3. Natural Language Processing with Sequence Models
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/PWFREEZCWYV7)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/misc/03%20-%20Coursera%20PWFREEZCWYV7.jpg" />](https://www.coursera.org/account/accomplishments/certificate/PWFREEZCWYV7)
       
     </p></details>
 
 4. Natural Language Processing with Attention Models
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/F2UNKHDTHXLP)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/misc/04%20-%20Coursera%20F2UNKHDTHXLP.jpg" />](https://www.coursera.org/account/accomplishments/certificate/F2UNKHDTHXLP)
       
     </p></details>
 
 
  # Disclamer
-The files uploaded here are only for reference. 
-All course Notebooks can be found [here](https://github.com/lmoroney/dlaicourse).
+The files uploaded here are only for reference.
